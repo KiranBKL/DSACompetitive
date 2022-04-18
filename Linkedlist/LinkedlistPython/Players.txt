@@ -1,0 +1,11 @@
+Sourav 10000 56.7
+VVS 9500 60.4
+SRT 11500 57.2
+Dravid 12000 58.1
+Sehwag 10200 68.7
+Yuvi 9300 60.1
+Zaheer 2000 30.5
+MSD 8000 52.1
+Kumble 3000 31.4
+Nehra 1000 15.5
+Srinadh 2000 25.7
